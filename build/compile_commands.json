@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wk/cuda_best_parctice_/build/1_cuda_reduce_study",
+  "command": "/usr/local/cuda-12.6/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/my_reduce_v0_global_memory.dir/includes_CUDA.rsp -g -std=c++14 -G -x cu -c /home/wk/cuda_best_parctice_/1_cuda_reduce_study/my_reduce_v0_global_memory.cu -o CMakeFiles/my_reduce_v0_global_memory.dir/my_reduce_v0_global_memory.cu.o",
+  "file": "/home/wk/cuda_best_parctice_/1_cuda_reduce_study/my_reduce_v0_global_memory.cu",
+  "output": "1_cuda_reduce_study/CMakeFiles/my_reduce_v0_global_memory.dir/my_reduce_v0_global_memory.cu.o"
+}
+]
