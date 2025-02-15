@@ -6,5 +6,5 @@ CUDA_DEFINES =
 
 CUDA_INCLUDES = --options-file CMakeFiles/my_reduce_v0_global_memory.dir/includes_CUDA.rsp
 
-CUDA_FLAGS = -g -std=c++14 -G
+CUDA_FLAGS = -g -std=c++14
 

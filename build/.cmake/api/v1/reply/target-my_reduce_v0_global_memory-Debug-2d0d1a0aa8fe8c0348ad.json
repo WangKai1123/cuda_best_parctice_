@@ -13,8 +13,7 @@
 			"add_executable",
 			"target_link_libraries",
 			"set_property",
-			"find_package",
-			"target_compile_options"
+			"find_package"
 		],
 		"files" : 
 		[
@@ -76,12 +75,6 @@
 				"file" : 2,
 				"line" : 1196,
 				"parent" : 4
-			},
-			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 7,
-				"parent" : 0
 			}
 		]
 	},
@@ -92,10 +85,6 @@
 			[
 				{
 					"fragment" : "-g -std=c++14"
-				},
-				{
-					"backtrace" : 10,
-					"fragment" : "-G"
 				}
 			],
 			"includes" : 
